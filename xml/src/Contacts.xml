@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<contactList>
+    <contact id="1" vip="true">
+        <name>  1234  </name>
+        <gender>nv</gender>
+        <email>11111.cn</email>
+    </contact>
+    <contact id="2" vip="false">
+        <name>  2345  </name>
+        <gender>nan</gender>
+        <email>222222.cn</email>
+    </contact>
+    <contact id="3" vip="false">
+        <name>  3456  </name>
+        <gender>nan</gender>
+        <email>33333.cn</email>
+    </contact>
+    <user>
+    </user>
+</contactList>

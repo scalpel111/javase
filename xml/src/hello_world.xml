@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--注释:根标签有且只有一个-->
+<student>
+    <name>scalpel</name>
+    <sex>nan</sex>
+    <info>
+        <age>18</age>
+    </info>
+</student>
